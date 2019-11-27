@@ -1,0 +1,1 @@
+--help or -h --version or -v --data or -d --key or -k
